@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DineshlakshmananM/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1452-restaurant-growth](https://github.com/DineshlakshmananM/Leetcode/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
