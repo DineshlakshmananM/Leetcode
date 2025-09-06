@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/DineshlakshmananM/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3973-flip-square-submatrix-vertically](https://github.com/DineshlakshmananM/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/DineshlakshmananM/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3973-flip-square-submatrix-vertically](https://github.com/DineshlakshmananM/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+## Two Pointers
+|  |
+| ------- |
+| [3973-flip-square-submatrix-vertically](https://github.com/DineshlakshmananM/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
