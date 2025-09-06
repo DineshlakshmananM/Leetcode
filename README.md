@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/DineshlakshmananM/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshlakshmananM/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/DineshlakshmananM/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/DineshlakshmananM/Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/DineshlakshmananM/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshlakshmananM/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/DineshlakshmananM/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/DineshlakshmananM/Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
