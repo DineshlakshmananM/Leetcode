@@ -104,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2159-two-out-of-three](https://github.com/DineshlakshmananM/Leetcode/tree/master/2159-two-out-of-three) |
+| [2659-number-of-even-and-odd-bits](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
