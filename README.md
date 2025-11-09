@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
+| [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DineshlakshmananM/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DineshlakshmananM/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DineshlakshmananM/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2159-two-out-of-three](https://github.com/DineshlakshmananM/Leetcode/tree/master/2159-two-out-of-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
+| [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
