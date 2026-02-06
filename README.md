@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/DineshlakshmananM/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/DineshlakshmananM/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DineshlakshmananM/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3973-flip-square-submatrix-vertically](https://github.com/DineshlakshmananM/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0002-add-two-numbers) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DineshlakshmananM/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
