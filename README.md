@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DineshlakshmananM/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/DineshlakshmananM/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DineshlakshmananM/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/DineshlakshmananM/Leetcode/tree/master/1848-sum-of-unique-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DineshlakshmananM/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
