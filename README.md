@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DineshlakshmananM/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DineshlakshmananM/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/DineshlakshmananM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DineshlakshmananM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3973-flip-square-submatrix-vertically](https://github.com/DineshlakshmananM/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DineshlakshmananM/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/DineshlakshmananM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DineshlakshmananM/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DineshlakshmananM/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DineshlakshmananM/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
