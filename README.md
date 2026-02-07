@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/0009-palindrome-number) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DineshlakshmananM/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/DineshlakshmananM/Leetcode/tree/master/0010-regular-expression-matching) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2159-two-out-of-three](https://github.com/DineshlakshmananM/Leetcode/tree/master/2159-two-out-of-three) |
 | [2659-number-of-even-and-odd-bits](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Dynamic Programming
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DineshlakshmananM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 |  |
 | ------- |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DineshlakshmananM/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
