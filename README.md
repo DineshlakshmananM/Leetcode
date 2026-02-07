@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/DineshlakshmananM/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/0009-palindrome-number) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
