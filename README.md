@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DineshlakshmananM/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DineshlakshmananM/Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0029-divide-two-integers) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0029-divide-two-integers) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2159-two-out-of-three](https://github.com/DineshlakshmananM/Leetcode/tree/master/2159-two-out-of-three) |
 | [2659-number-of-even-and-odd-bits](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
