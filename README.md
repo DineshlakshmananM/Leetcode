@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DineshlakshmananM/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DineshlakshmananM/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/DineshlakshmananM/Leetcode/tree/master/0050-powx-n) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/DineshlakshmananM/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/DineshlakshmananM/Leetcode/tree/master/0050-powx-n) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## String
 |  |
