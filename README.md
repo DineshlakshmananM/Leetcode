@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DineshlakshmananM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0220-contains-duplicate-iii](https://github.com/DineshlakshmananM/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DineshlakshmananM/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DineshlakshmananM/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DineshlakshmananM/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/DineshlakshmananM/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/DineshlakshmananM/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Database
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/DineshlakshmananM/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DineshlakshmananM/Leetcode/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/DineshlakshmananM/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/DineshlakshmananM/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
