@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshlakshmananM/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/DineshlakshmananM/Leetcode/tree/master/2159-two-out-of-three) |
+| [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/DineshlakshmananM/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/DineshlakshmananM/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DineshlakshmananM/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,9 +127,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DineshlakshmananM/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
 ## Greedy
 |  |
 | ------- |
+| [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Two Pointers
 |  |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DineshlakshmananM/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
 ## Queue
 |  |
 | ------- |
@@ -192,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
+## Segment Tree
+|  |
+| ------- |
+| [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
 <!---LeetCode Topics End-->
