@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DineshlakshmananM/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/DineshlakshmananM/Leetcode/tree/master/0043-multiply-strings) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/DineshlakshmananM/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/DineshlakshmananM/Leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DineshlakshmananM/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/DineshlakshmananM/Leetcode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/DineshlakshmananM/Leetcode/tree/master/0076-minimum-window-substring) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/DineshlakshmananM/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DineshlakshmananM/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
