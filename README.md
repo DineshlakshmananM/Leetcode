@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DineshlakshmananM/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DineshlakshmananM/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DineshlakshmananM/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/DineshlakshmananM/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/DineshlakshmananM/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DineshlakshmananM/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/DineshlakshmananM/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DineshlakshmananM/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/DineshlakshmananM/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DineshlakshmananM/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DineshlakshmananM/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Database
 |  |
 | ------- |
