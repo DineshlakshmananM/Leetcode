@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DineshlakshmananM/Leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DineshlakshmananM/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/DineshlakshmananM/Leetcode/tree/master/0076-minimum-window-substring) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/DineshlakshmananM/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/DineshlakshmananM/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/DineshlakshmananM/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/DineshlakshmananM/Leetcode/tree/master/0788-rotated-digits) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/DineshlakshmananM/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2485-find-the-pivot-integer](https://github.com/DineshlakshmananM/Leetcode/tree/master/2485-find-the-pivot-integer) |
