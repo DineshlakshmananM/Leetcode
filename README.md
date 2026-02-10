@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshlakshmananM/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/DineshlakshmananM/Leetcode/tree/master/2159-two-out-of-three) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DineshlakshmananM/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/DineshlakshmananM/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/DineshlakshmananM/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshlakshmananM/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/DineshlakshmananM/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/DineshlakshmananM/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
