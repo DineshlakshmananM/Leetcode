@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DineshlakshmananM/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DineshlakshmananM/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DineshlakshmananM/Leetcode/tree/master/0050-powx-n) |
+| [0788-rotated-digits](https://github.com/DineshlakshmananM/Leetcode/tree/master/0788-rotated-digits) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2485-find-the-pivot-integer](https://github.com/DineshlakshmananM/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DineshlakshmananM/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DineshlakshmananM/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/DineshlakshmananM/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0788-rotated-digits](https://github.com/DineshlakshmananM/Leetcode/tree/master/0788-rotated-digits) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
