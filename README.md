@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DineshlakshmananM/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DineshlakshmananM/Leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/DineshlakshmananM/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/DineshlakshmananM/Leetcode/tree/master/0788-rotated-digits) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
