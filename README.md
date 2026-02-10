@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/DineshlakshmananM/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/DineshlakshmananM/Leetcode/tree/master/1816-truncate-sentence) |
 | [1848-sum-of-unique-elements](https://github.com/DineshlakshmananM/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshlakshmananM/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DineshlakshmananM/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DineshlakshmananM/Leetcode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/DineshlakshmananM/Leetcode/tree/master/0076-minimum-window-substring) |
+| [1816-truncate-sentence](https://github.com/DineshlakshmananM/Leetcode/tree/master/1816-truncate-sentence) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/DineshlakshmananM/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/DineshlakshmananM/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DineshlakshmananM/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
