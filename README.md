@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/DineshlakshmananM/Leetcode/tree/master/0076-minimum-window-substring) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/DineshlakshmananM/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/DineshlakshmananM/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DineshlakshmananM/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
