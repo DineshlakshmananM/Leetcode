@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DineshlakshmananM/Leetcode/tree/master/0050-powx-n) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [2485-find-the-pivot-integer](https://github.com/DineshlakshmananM/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/DineshlakshmananM/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DineshlakshmananM/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/DineshlakshmananM/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
 | ------- |
