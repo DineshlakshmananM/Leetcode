@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/DineshlakshmananM/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DineshlakshmananM/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DineshlakshmananM/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DineshlakshmananM/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/DineshlakshmananM/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/DineshlakshmananM/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshlakshmananM/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/DineshlakshmananM/Leetcode/tree/master/0788-rotated-digits) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1086-divisor-game](https://github.com/DineshlakshmananM/Leetcode/tree/master/1086-divisor-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/DineshlakshmananM/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DineshlakshmananM/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 |  |
