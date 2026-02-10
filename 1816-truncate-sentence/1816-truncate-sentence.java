@@ -1,24 +1,13 @@
 class Solution {
     public String truncateSentence(String s, int k) {
-        String ans = "";
-        String[] a = s.split("\\s+");
-        if (k >= a.length) {
-            ans = s;
-        } else {
-            int c = 0;
-            for (String x : a) {
-                if (c != k) {
-                    c++;
-                    if (c == k) {
-                        ans += x;
-                    } else {
-                        ans += x + " ";
-                    }
-                } else {
-                    break;
-                }
-            }
+        String[] words = s.split(" ");
+        StringBuilder sb = new StringBuilder();
+
+        for (int i = 0; i < k; i++) {
+            sb.append(words[i]);
+            if (i < k - 1) sb.append(" ");
         }
-        return ans;
+
+        return sb.toString();
     }
 }
