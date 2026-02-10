@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DineshlakshmananM/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DineshlakshmananM/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DineshlakshmananM/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DineshlakshmananM/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DineshlakshmananM/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
 ## Heap (Priority Queue)
 |  |
