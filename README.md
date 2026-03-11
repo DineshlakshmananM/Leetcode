@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/DineshlakshmananM/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/DineshlakshmananM/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DineshlakshmananM/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DineshlakshmananM/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DineshlakshmananM/Leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DineshlakshmananM/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/DineshlakshmananM/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/DineshlakshmananM/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2159-two-out-of-three](https://github.com/DineshlakshmananM/Leetcode/tree/master/2159-two-out-of-three) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/DineshlakshmananM/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/DineshlakshmananM/Leetcode/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/DineshlakshmananM/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DineshlakshmananM/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
 ## Heap (Priority Queue)
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2659-make-array-empty](https://github.com/DineshlakshmananM/Leetcode/tree/master/2659-make-array-empty) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshlakshmananM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
